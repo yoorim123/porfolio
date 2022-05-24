@@ -3246,9 +3246,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background: #025949 url(images/circle_2.png) no-repeat 90% 90%;
-			/*이미지 파일은 위치만 잡아둔 것!*/
-			/*background-color: #025949;*/
+			background-color: #025949;
 		}
 
 		.wrapper.style1-alt {
